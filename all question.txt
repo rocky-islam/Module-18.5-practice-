@@ -1,0 +1,15 @@
+ variable
+1. what is js.
+2. how does js work?
+3. what is variable?
+4. decleare a variable?
+5. type of varible. how can you find varible.
+6. premitive and non premitive data type.
+7. naming conventaion of js varible?
+8. math operation +, -, *, /, %
+9. short hand +=, -= *=, /=.
+10. ++ -- 
+11. parseint, parseflot
+12. tofixed
+--------------------------------
+---------------------------------
